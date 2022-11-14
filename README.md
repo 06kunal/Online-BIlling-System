@@ -1,5 +1,7 @@
 # Online-BIlling-System
 
-Use a Xampp Server to use php files.
-Create a database on phpmyAdmin server
-xampp server will access localhost server.
+1. Use a Xampp Server to use php files.
+
+2. Create a database on phpmyAdmin server.
+
+3. xampp server will access localhost server.
